@@ -19,7 +19,7 @@ Websites e hyperlinks em __Cafelândia SP__:
 
 -   [CMC](http://www.camaracafelandia.sp.gov.br/) - Câmara Municipal
 -   [PMC](http://www.cafelandia.sp.gov.br/) - Prefeitura Municipal
--   [SAAEC](http://www.saaec.sp.gov.br/) - SA de Água e Esgoto
+-   [SAAEC](http://www.saaec.sp.gov.br/) - S.A. de Água e Esgoto
 
 ---
 

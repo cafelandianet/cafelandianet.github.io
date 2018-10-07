@@ -18,7 +18,7 @@ Informações confiaveis, de fontes oficiais.
 
 ## Mais recentes
 
-<a rel="noopener nofollow" target="_blank" class="twitter-timeline" data-lang="pt" href="https://twitter.com/tempocafelandia?ref_src=twsrc%5Etfw">@tempocafelandia no Twitter</a>
+<a target="_blank" class="twitter-timeline" data-lang="pt" href="https://twitter.com/tempocafelandia?ref_src=twsrc%5Etfw">@tempocafelandia no Twitter</a>
 
 ## Previsão do tempo
 Informativos do tipo [__previsão__] trazem um resumo do período. São publicados logo nas primeiras horas do dia, mas também podem ser veiculados em outros horários, quando houver alteração no panorama previsto.
@@ -37,7 +37,7 @@ Notificações identificadas como [__alerta__] avisam sobre situações de risco
 
 ---
 
-Siga <a rel="noopener" target="_blank" href="https://twitter.com/tempocafelandia">@tempocafelandia</a> para ser informado!
+Siga <a rel="noopener nofollow" target="_blank" href="https://twitter.com/tempocafelandia">@tempocafelandia</a> para ser informado!
 
 ---
 

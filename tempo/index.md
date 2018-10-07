@@ -7,6 +7,8 @@ permalink: /tempo/
 # Tempo em Cafelândia
 Previsões, boletins e alertas sobre o tempo para a cidade de __Cafelândia - SP__.
 
+Comunicação confiável, por fontes oficiais:
+
 - Publicações
   - [Mais recentes](#mais-recentes)
 - Informações
@@ -14,35 +16,38 @@ Previsões, boletins e alertas sobre o tempo para a cidade de __Cafelândia - SP
   - [Boletim meteorológico](#boletim-meteorol%C3%B3gico)
   - [Alerta de condição severa](#alerta-de-condi%C3%A7%C3%A3o-severa)
 
-Informações confiaveis, de fontes oficiais.
+---
 
 ## Mais recentes
 
 <a target="_blank" class="twitter-timeline" data-lang="pt" href="https://twitter.com/tempocafelandia?ref_src=twsrc%5Etfw">@tempocafelandia no Twitter</a>
 
+---
+
 ## Previsão do tempo
-Informativos do tipo [__previsão__] trazem um resumo para o período.
+Informativos do tipo [__previsão__] trazem um resumo sobre as condições atuais:
 
-- São publicados logo nas primeiras horas do dia, mas também podem ser veiculados em outros horários, quando houver alteração no panorama previsto.
-- Os dados das previsões são providos pelo Instituto Nacional de Pesquisas Espaciais, INPE, através do seu Centro de Previsão de Tempo e Estudos Climáticos, o CPTEC.
+As previsões são publicadas nas primeiras horas do dia, podendo ser veiculadas em outros horários quando houver alteração no panorama previsto para o período.
 
-> Os dados das previsões são providos pelo Instituto Nacional de Pesquisas Espaciais, INPE, através do seu Centro de Previsão de Tempo e Estudos Climáticos, o CPTEC.
+- Estes dados são providos pelo Instituto Nacional de Pesquisas Espaciais, _INPE_, através do seu Centro de Previsão de Tempo e Estudos Climáticos, o _CPTEC_.
+
+---
 
 ## Boletim meteorológico
-Atualizações marcadas por [__boletim__] fornecem indicadores específicos.
+Atualizações classificadas como [__boletim__] fornecem a medição de índices específicos:
 
-- São publicadas periodicadamente, a cada seis horas, geralmente às 00h, 06h, 12h e 18h.
-- Os dados dos boletins são providos pela estação meteorológica localizada no Aeroporto de Bauru, BAU-SBBU.
+Os boletins são emitidos periodicadamente, a cada seis horas, ocorrendo por padrão às 00h00, 06h00, 12h00 e 18h00.
 
-> Os dados dos boletins são providos pela estação meteorológica localizada no Aeroporto de Bauru, BAU-SBBU.
+- Estes dados são coletados pela estação de meteorologia localizada em Bauru SP, no Aeródromo Municipal, o _BAU-SBBU_.
+
+---
 
 ## Alerta de condição severa
-Notificações identificadas como [__alerta__] avisam sobre situações de risco iminente. 
+Notificações identificadas como [__alerta__] avisam sobre situações de risco iminente: 
 
-- São publicadas quando há possibilidade de tempestate ou chuva forte com granizo.
-- Os dados dos alertas são providos pela Universidade Estadual Paulista, UNESP, através do seu Instituto de Pesquisas Meteorológicas, o IPMet.
+Os alertas são disparados sempre que há a possibilidade de eventos perigosos, como tempestates ou chuvas fortes com granizo.
 
-> Os dados dos alertas são providos pela Universidade Estadual Paulista, UNESP, através do seu Instituto de Pesquisas Meteorológicas, o IPMet.
+- Estes dados são viabilizados através da Universidade Estadual Paulista, _UNESP_, por meio do seu Instituto de Pesquisas Meteorológicas, o _IPMet_.
 
 ---
 

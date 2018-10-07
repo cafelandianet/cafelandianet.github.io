@@ -42,4 +42,4 @@ Conecte-se, siga <a rel="noopener" target="_blank" href="https://twitter.com/caf
 
 ---
 
-[Links](https://www.cafelandia.net/links/) em [Cafelândia SP](https://www.cafelandia.net/)
+[Cafelândia SP](https://www.cafelandia.net/) › [Links](https://www.cafelandia.net/links/)

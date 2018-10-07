@@ -7,8 +7,6 @@ permalink: /tempo/
 # Tempo em Cafelândia
 Previsões, boletins e alertas sobre o tempo para a cidade de __Cafelândia - SP__.
 
-Comunicação confiável, por fontes oficiais:
-
 - Publicações
   - [Mais recentes](#mais-recentes)
 - Informações

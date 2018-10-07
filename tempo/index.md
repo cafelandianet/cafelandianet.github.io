@@ -4,7 +4,7 @@ description: Previsões, boletins e alertas sobre o tempo para a cidade de Cafel
 permalink: /tempo/
 ---
 
-# Tempo em Cafelândia
+## Tempo em Cafelândia
 Previsões, boletins e alertas sobre o tempo para a cidade de __Cafelândia SP__:
 
 - Publicações
@@ -16,13 +16,13 @@ Previsões, boletins e alertas sobre o tempo para a cidade de __Cafelândia SP__
 
 ---
 
-## Mais recentes
+### Mais recentes
 
 <a target="_blank" class="twitter-timeline" data-lang="pt" href="https://twitter.com/tempocafelandia?ref_src=twsrc%5Etfw">@tempocafelandia no Twitter</a>
 
 ---
 
-## Previsão do tempo
+### Previsão do tempo
 Informativos do tipo [__previsão__] fornecem um resumo sobre as circunstâncias atuais:
 
 As previsões são publicadas nas primeiras horas do dia, podendo ser veiculadas em outros horários quando houver alteração no panorama previsto para o período.
@@ -31,7 +31,7 @@ As previsões são publicadas nas primeiras horas do dia, podendo ser veiculadas
 
 ---
 
-## Boletim meteorológico
+### Boletim meteorológico
 Atualizações classificadas como [__boletim__] informam a medição de índices específicos:
 
 Os boletins são emitidos periodicadamente, a cada seis horas, ocorrendo por padrão às 00h00, 06h00, 12h00 e 18h00.
@@ -40,7 +40,7 @@ Os boletins são emitidos periodicadamente, a cada seis horas, ocorrendo por pad
 
 ---
 
-## Alerta de condição severa
+### Alerta de condição severa
 Notificações identificadas como [__alerta__] avisam sobre situações de risco iminente: 
 
 Os alertas são disparados sempre que há a possibilidade de eventos perigosos, como chuvas fortes com granizo ou tempestades.
@@ -53,6 +53,6 @@ Siga <a rel="noopener nofollow" target="_blank" href="https://twitter.com/tempoc
 
 ---
 
-[Tempo em Cafelândia SP](https://www.cafelandia.net/tempo/) por [Cafelandia.net](https://www.cafelandia.net/)
+[Tempo](https://www.cafelandia.net/tempo/) em [Cafelândia SP](https://www.cafelandia.net/)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

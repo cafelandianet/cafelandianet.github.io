@@ -43,7 +43,7 @@ Os boletins são emitidos periodicadamente, a cada seis horas, ocorrendo por pad
 ## Alerta de condição severa
 Notificações identificadas como [__alerta__] avisam sobre situações de risco iminente: 
 
-Os alertas são disparados sempre que há a possibilidade de eventos perigosos, como tempestates ou chuvas fortes com granizo.
+Os alertas são disparados sempre que há a possibilidade de eventos perigosos, como chuvas fortes com granizo ou tempestades.
 
 - Estes dados são viabilizados através da Universidade Estadual Paulista, _UNESP_, por meio do seu Instituto de Pesquisas Meteorológicas, o _IPMet_.
 

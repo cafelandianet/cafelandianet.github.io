@@ -1,0 +1,5 @@
+User-agent: * 
+Disallow: /teste/
+Allow: /
+
+Sitemap: https://www.cafelandia.net/sitemap.xml

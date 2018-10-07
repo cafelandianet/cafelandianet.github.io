@@ -6,39 +6,39 @@ permalink: /
 
 ## Cafelândia SP na Internet
 
-<b>Novo:</b>
+### Novo!
 
 - [Tempo em Cafelândia](https://www.cafelandia.net/tempo/)
 
 ---
 
-<h3 id="telco">Local</h3>
+### Local
 <p>Telefones e endereços em <strong>Cafelandia</strong>:</p>
 
-<h4 id="telefonia">Telefones</h4>
+#### Telefones
 <ul>
 <li><b>Código de Área</b>: <i>014</i></li>
 <li><b>Prefixos</b>: <i>3554</i>, <i>3556</i></li>
 </ul>
 
-<h4 id="correios">Endereços</h4>
+#### Endereços
 <ul>
 <li><b>CEP</b>: <i>16500-000</i>, <i>16500-970</i></li>
 </ul>
 
 ---
 
-<h3 id="dados">Dados</h3>
+### Dados
 <p>Informações da cidade de <strong>Cafelândia</strong>:</p>
 
-<h4 id="município">Município</h4>
+#### Município
 <ul>
 <li><b>Aniversário</b>: <i>11 de Abril</i></li>
 <li><b>Fundação</b>: <i>11/04/1926</i></li>
 <li><b>Gentílico</b>: <i>Cafelandense</i></li>
 </ul>
 
-<h4 id="localizacao">Localização</h4>
+#### Localização
 <ul>
 <li><b>Área</b>: <i>919,9 km²</i></li>
 <li><b>Altitude</b>: <i>445 metros</i></li>
@@ -46,7 +46,7 @@ permalink: /
 <li><b>Longitude</b>: <i>49º36’16”</i></li>
 </ul>
 
-<h4 id="populacao">População</h4>
+#### População
 <ul>
 <li><b>Habitantes</b>: <i>12.462</i></li>
 <li><b>Densidade</b>: <i>0,01/km²</i></li>
@@ -54,7 +54,7 @@ permalink: /
 
 ---
 
-<h3 id="hino">Hino</h3>
+### Hino
 <p>Hino municipal de <strong>Cafelândia, São Paulo</strong>:</p>
 
 <p><em>Cafelândia</em>, cidade progresso<br />
@@ -80,24 +80,24 @@ O café que te faz infinita<br />
 
 ---
 
-<h3 id="links">Mais</h3>
+### Mais
 <p>Websites e hiperlinks em <strong>Cafelandia, SP</strong>:</p>
 
-<h4 id="sites-oficiais">Sites oficiais</h4>
+#### Sites oficiais
 <ul>
 <li><a target="_blank" rel="noopener noreferrer" href="http://www.camaracafelandia.sp.gov.br/">CMC</a> - Câmara Municipal</li>
 <li><a target="_blank" rel="noopener noreferrer" href="http://www.cafelandia.sp.gov.br/">PMC</a> - Prefeitura Municipal</li>
 <li><a target="_blank" rel="noopener noreferrer" href="http://www.saaec.sp.gov.br/">SAAEC</a> - SA de Água e Esgoto</li>
 </ul>
 
-<h4 id="links-uteis">Links úteis</h4>
+#### Links úteis
 <ul>
 <li><a target="_blank" rel="noopener noreferrer" href="https://servicosonline.cpfl.com.br/agencia-webapp/#/taxas-tarifas?codMunicipio=3508801">CPFL</a> - Taxas e tarifas de energia</li>
 <li><a target="_blank" rel="noopener noreferrer" href="https://tempo2.cptec.inpe.br/sp/cafelandia">CPTEC/INPE</a> - Previsão do tempo</li>
 <li><a target="_blank" rel="noopener noreferrer" href="https://cidades.ibge.gov.br/brasil/sp/cafelandia">IBGE</a> - Informações demográficas</li>
 </ul>
 
-<h4 id="">+ Páginas</h4>
+#### + Páginas
 <ul>
 <li><a target="_blank" rel="noopener noreferrer" href="https://www.google.com.br/maps/place/Cafel%C3%A2ndia,+SP,+16500-000/@-21.8063868,-49.6278754,14z/data=!3m1!4b1!4m5!3m4!1s0x94be467589002709:0x54c03e662abc324e!8m2!3d-21.8031143!4d-49.6099581">Google Maps</a> - Mapas e locais</li>
 <li><a target="_blank" rel="noopener noreferrer" href="https://pt.wikipedia.org/wiki/Cafel%C3%A2ndia_(S%C3%A3o_Paulo)">Wikipédia</a> - Página do município</li>

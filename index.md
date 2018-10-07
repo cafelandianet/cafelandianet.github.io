@@ -6,6 +6,10 @@ permalink: /
 
 ## Cafelândia SP na Internet
 
+Conecte-se, siga <a rel="noopener" target="_blank" href="https://twitter.com/cafelandianet">@cafelandianet</a> no Twitter!
+
+---
+
 ### Novo!
 
 - [Tempo em Cafelândia](https://www.cafelandia.net/tempo/)

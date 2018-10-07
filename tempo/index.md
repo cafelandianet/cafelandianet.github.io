@@ -49,7 +49,7 @@ Os alertas são disparados sempre que há a possibilidade de eventos perigosos, 
 
 ---
 
-Siga <a rel="noopener nofollow" target="_blank" href="https://twitter.com/tempocafelandia">@tempocafelandia</a> para ser informado!
+Siga <a rel="noopener" target="_blank" href="https://twitter.com/tempocafelandia">@tempocafelandia</a> para ser informado!
 
 ---
 

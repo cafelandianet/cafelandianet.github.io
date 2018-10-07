@@ -5,7 +5,7 @@ permalink: /tempo/
 ---
 
 # Tempo em Cafelândia
-Previsões, boletins e alertas sobre o tempo para a cidade de __Cafelândia - SP__.
+Previsões, boletins e alertas sobre o tempo para a cidade de __Cafelândia SP__:
 
 - Publicações
   - [Mais recentes](#mais-recentes)
@@ -23,7 +23,7 @@ Previsões, boletins e alertas sobre o tempo para a cidade de __Cafelândia - SP
 ---
 
 ## Previsão do tempo
-Informativos do tipo [__previsão__] fornecem um resumo sobre as condições atuais:
+Informativos do tipo [__previsão__] fornecem um resumo sobre as circunstâncias atuais:
 
 As previsões são publicadas nas primeiras horas do dia, podendo ser veiculadas em outros horários quando houver alteração no panorama previsto para o período.
 

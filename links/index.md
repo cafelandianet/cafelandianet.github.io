@@ -25,7 +25,7 @@ Websites e hyperlinks em __Cafelândia SP__:
 
 - [CPFL](https://servicosonline.cpfl.com.br/agencia-webapp/#/taxas-tarifas?codMunicipio=3508801) - Taxas e tarifas de energia
 - [IBGE](https://cidades.ibge.gov.br/brasil/sp/cafelandia) - Informações demográficas
-- [ADHB](http://atlasbrasil.org.br/2013/pt/perfil_m/cafel%C3%A2ndia_sp) - Perfil de Desenvolvimento Humano
+- [ADHB](http://atlasbrasil.org.br/2013/pt/perfil_m/cafel%C3%A2ndia_sp) - Desenvolvimento Humano
 
 ## Mais páginas
 

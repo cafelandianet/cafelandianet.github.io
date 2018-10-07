@@ -9,13 +9,11 @@ Previsões, boletins e alertas sobre o tempo para a cidade de Cafelândia-SP:
 
 ---
 
-### Últimas publicações
-
 <a rel="noopener nofollow" target="_blank" class="twitter-timeline" data-lang="pt" href="https://twitter.com/tempocafelandia?ref_src=twsrc%5Etfw">@tempocafelandia no Twitter</a>
 
 ---
 
-Informações confiáveis, de fontes oficiais:
+Informações confiáveis, de fontes oficiais!
 
 - [Previsão do Tempo](#previs%C3%A3o-do-tempo)
 - [Boletim Meteorológico](#boletim-meteorol%C3%B3gico)

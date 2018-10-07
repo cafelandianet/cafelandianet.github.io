@@ -53,6 +53,6 @@ Siga <a rel="noopener nofollow" target="_blank" href="https://twitter.com/tempoc
 
 ---
 
-[Tempo](https://www.cafelandia.net/tempo/) em [Cafelândia SP](https://www.cafelandia.net/)
+[Cafelândia SP](https://www.cafelandia.net/) › [Tempo](https://www.cafelandia.net/tempo/)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

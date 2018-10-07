@@ -10,7 +10,7 @@ Conecte-se, siga <a rel="noopener" target="_blank" href="https://twitter.com/caf
 
 ---
 
-### Novo!
+### Novo:
 
 - [Tempo em Cafelândia](https://www.cafelandia.net/tempo/)
 

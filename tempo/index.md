@@ -23,7 +23,7 @@ Previsões, boletins e alertas sobre o tempo para a cidade de __Cafelândia - SP
 ---
 
 ## Previsão do tempo
-Informativos do tipo [__previsão__] trazem um resumo sobre as condições atuais:
+Informativos do tipo [__previsão__] fornecem um resumo sobre as condições atuais:
 
 As previsões são publicadas nas primeiras horas do dia, podendo ser veiculadas em outros horários quando houver alteração no panorama previsto para o período.
 
@@ -32,7 +32,7 @@ As previsões são publicadas nas primeiras horas do dia, podendo ser veiculadas
 ---
 
 ## Boletim meteorológico
-Atualizações classificadas como [__boletim__] fornecem a medição de índices específicos:
+Atualizações classificadas como [__boletim__] informam a medição de índices específicos:
 
 Os boletins são emitidos periodicadamente, a cada seis horas, ocorrendo por padrão às 00h00, 06h00, 12h00 e 18h00.
 

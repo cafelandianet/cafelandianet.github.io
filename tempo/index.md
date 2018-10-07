@@ -24,7 +24,7 @@ Informativos do tipo [__previsão__] trazem um resumo do período. São publicad
 > Os dados das previsões são providos pelo Instituto Nacional de Pesquisas Espaciais, INPE, através do seu Centro de Previsão de Tempo e Estudos Climáticos, o CPTEC.
 
 ## Boletim Meteorológico
-Atualizações marcadas por [__boletim__] fornecem indicadores mais precisos. São publicadas periodicadamente, a cada seis horas, geralmente às 00h, 06h, 12h e 18h.
+Atualizações marcadas por [__boletim__] fornecem indicadores específicos. São publicadas periodicadamente, a cada seis horas, geralmente às 00h, 06h, 12h e 18h.
 
 > Os dados dos boletins são providos pela estação meteorológica localizada no Aeroporto de Bauru, BAU-SBBU.
 

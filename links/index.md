@@ -5,7 +5,7 @@ permalink: /links/
 ---
 
 ## Links de Cafelândia
-Websites e hyperlinks em __Cafelândia SP__:
+Websites e hyperlinks de __Cafelândia SP__:
 
 - Websites
   - [Sites oficiais](#sites-oficiais)

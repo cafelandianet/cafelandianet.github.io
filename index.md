@@ -6,7 +6,7 @@ permalink: /
 
 ## Cafelândia SP na Internet
 
----
+<b>Novo:</b>
 
 - [Tempo em Cafelândia](https://www.cafelandia.net/tempo/)
 

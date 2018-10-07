@@ -8,9 +8,9 @@ permalink: /tempo/
 Previsões, boletins e alertas sobre o tempo para a cidade de __Cafelândia - SP__.
 
 - [Mais recentes](#mais-recentes)
-- [Previsão do Tempo](#previs%C3%A3o-do-tempo)
-- [Boletim Meteorológico](#boletim-meteorol%C3%B3gico)
-- [Alerta de Condição Severa](#alerta-de-condi%C3%A7%C3%A3o-severa)
+- [Previsão do tempo](#previs%C3%A3o-do-tempo)
+- [Boletim meteorológico](#boletim-meteorol%C3%B3gico)
+- [Alerta de condição severa](#alerta-de-condi%C3%A7%C3%A3o-severa)
 
 Informações confiaveis, de fontes oficiais.
 

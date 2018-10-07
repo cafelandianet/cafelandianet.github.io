@@ -1,3 +1,2 @@
 
-Estamos quase lá!
-👷‍♀️🚧👷‍♂️
+🚧 Estamos quase lá!

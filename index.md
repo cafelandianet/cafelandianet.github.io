@@ -6,4 +6,14 @@ permalink: /
 
 # Cafelândia SP na Internet
 
+---
+
 🚧 Estamos quase lá!
+
+---
+
+- [Tempo em Cafelândia](https://www.cafelandia.net/tempo/)
+
+---
+
+[Cafelandia.net](https://www.cafelandia.net)

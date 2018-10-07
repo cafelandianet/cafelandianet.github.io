@@ -21,17 +21,26 @@ Informações confiaveis, de fontes oficiais.
 <a target="_blank" class="twitter-timeline" data-lang="pt" href="https://twitter.com/tempocafelandia?ref_src=twsrc%5Etfw">@tempocafelandia no Twitter</a>
 
 ## Previsão do tempo
-Informativos do tipo [__previsão__] trazem um resumo do período. São publicados logo nas primeiras horas do dia, mas também podem ser veiculados em outros horários, quando houver alteração no panorama previsto.
+Informativos do tipo [__previsão__] trazem um resumo para o período.
+
+- São publicados logo nas primeiras horas do dia, mas também podem ser veiculados em outros horários, quando houver alteração no panorama previsto.
+- Os dados das previsões são providos pelo Instituto Nacional de Pesquisas Espaciais, INPE, através do seu Centro de Previsão de Tempo e Estudos Climáticos, o CPTEC.
 
 > Os dados das previsões são providos pelo Instituto Nacional de Pesquisas Espaciais, INPE, através do seu Centro de Previsão de Tempo e Estudos Climáticos, o CPTEC.
 
 ## Boletim meteorológico
-Atualizações marcadas por [__boletim__] fornecem indicadores específicos. São publicadas periodicadamente, a cada seis horas, geralmente às 00h, 06h, 12h e 18h.
+Atualizações marcadas por [__boletim__] fornecem indicadores específicos.
+
+- São publicadas periodicadamente, a cada seis horas, geralmente às 00h, 06h, 12h e 18h.
+- Os dados dos boletins são providos pela estação meteorológica localizada no Aeroporto de Bauru, BAU-SBBU.
 
 > Os dados dos boletins são providos pela estação meteorológica localizada no Aeroporto de Bauru, BAU-SBBU.
 
 ## Alerta de condição severa
-Notificações identificadas como [__alerta__] avisam sobre situações de risco iminente. São publicadas quando há possibilidade de tempestate ou chuva forte com granizo.
+Notificações identificadas como [__alerta__] avisam sobre situações de risco iminente. 
+
+- São publicadas quando há possibilidade de tempestate ou chuva forte com granizo.
+- Os dados dos alertas são providos pela Universidade Estadual Paulista, UNESP, através do seu Instituto de Pesquisas Meteorológicas, o IPMet.
 
 > Os dados dos alertas são providos pela Universidade Estadual Paulista, UNESP, através do seu Instituto de Pesquisas Meteorológicas, o IPMet.
 

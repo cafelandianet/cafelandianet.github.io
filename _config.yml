@@ -1,0 +1,20 @@
+title:
+  "Cafelandia.net"
+  
+description:
+  "Cafelândia SP na Internet"
+
+github:
+  "cafelandianet"
+
+social:
+  links:
+    - https://twitter.com/cafelandianet
+
+permalink:
+  pretty
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from

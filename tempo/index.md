@@ -15,6 +15,7 @@ Previsões, boletins e alertas sobre o tempo para a cidade de __Cafelândia-SP__
   - [Previsão do tempo](#previs%C3%A3o-do-tempo)
   - [Boletim meteorológico](#boletim-meteorol%C3%B3gico)
   - [Alerta de condição severa](#alerta-de-condi%C3%A7%C3%A3o-severa)
+
 <br>
 
 ---

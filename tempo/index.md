@@ -40,7 +40,7 @@ Atualizações classificadas como [__boletim__] informam a medição de índices
 
 Os boletins são emitidos periodicadamente, a cada quatro horas, ocorrendo por padrão às 00h, 04h, 08h, 12h, 16h e 20h.
 
-- Estes dados são coletados pela estação de meteorologia localizada em Bauru SP, no Aeródromo Municipal, o _SBBU_/_BAU_.
+- Estes dados são coletados pela estação de meteorologia localizada no Aeródromo Municipal de Bauru SP, o _SBBU_/_BAU_.
 
 ---
 

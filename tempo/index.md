@@ -4,10 +4,10 @@ description: Previsões, boletins e alertas sobre o tempo para a cidade de Cafel
 permalink: /tempo/
 ---
 
-![Tempo em Cafelândia, SP, Brasil](tempocafelandia-1810.png)
-
 ## Tempo em Cafelândia SP
 Previsões, boletins e alertas sobre o tempo para a cidade de __Cafelândia-SP__:
+
+![Tempo em Cafelândia, SP, Brasil](tempocafelandia-1810.png)
 
 - Publicações
   - [Mais recentes](#mais-recentes)

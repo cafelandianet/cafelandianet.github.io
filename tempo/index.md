@@ -38,7 +38,7 @@ As previsões são publicadas nas primeiras horas do dia, podendo ser veiculadas
 ### Boletim meteorológico
 Atualizações classificadas como [__boletim__] informam a medição de índices específicos:
 
-Os boletins são emitidos periodicadamente, a cada quatro horas, ocorrendo por padrão às 00h, 04h, 08h, 12h, 16h e 20h.
+Os boletins são emitidos periodicadamente, a cada seis horas, ocorrendo por padrão às 00h, 06h, 12h e 18h (GMT-3).
 
 - Estes dados são coletados pela estação de meteorologia local do Aeródromo Municipal de Bauru SP, o _SBBU_/_BAU_.
 

@@ -31,6 +31,12 @@ Informativos do tipo [__previsão__] fornecem um resumo sobre as circunstâncias
 
 As previsões são publicadas nas primeiras horas do dia, podendo ser veiculadas em outros horários quando houver alteração no panorama previsto para o período.
 
+#### Exemplo
+
+<blockquote class="twitter-tweet" data-lang="pt"><p lang="pt" dir="ltr">[previsão] cafelandia​.net/tempo<br><br>🔔 Variação de nuvens e pancadas de chuva localizadas que poderão ser fortes e vir acompanhadas de trovoadas a qualquer hora do dia. <br><br>October 09, 2018 at 08:53AM</p>&mdash; Tempo em Cafelândia (@tempocafelandia) <a href="https://twitter.com/tempocafelandia/status/1049631239571935234?ref_src=twsrc%5Etfw">9 de outubro de 2018</a></blockquote>
+
+#### Origem
+
 - Estes dados são providos pelo Instituto Nacional de Pesquisas Espaciais, _INPE_, através do seu Centro de Previsão de Tempo e Estudos Climáticos, o _CPTEC_.
 
 ---
@@ -40,6 +46,12 @@ Atualizações classificadas como [__boletim__] informam a medição de índices
 
 Os boletins são emitidos periodicadamente, a cada seis horas, ocorrendo por padrão às 00h, 06h, 12h e 18h (GMT-3).
 
+#### Exemplo
+
+<blockquote class="twitter-tweet" data-lang="pt"><p lang="pt" dir="ltr">[boletim] cafelandia​.net/tempo<br><br>🌡 Temperatura: 23°C <br>💦 Umidade do ar: 90% <br>💨 V. do vento: 13 km/h <br><br>October 09, 2018 at 12:00PM</p>&mdash; Tempo em Cafelândia (@tempocafelandia) <a href="https://twitter.com/tempocafelandia/status/1049676007911956486?ref_src=twsrc%5Etfw">9 de outubro de 2018</a></blockquote>
+
+#### Origem
+
 - Estes dados são coletados pela estação de meteorologia local do Aeródromo Municipal de Bauru SP, o _SBBU_/_BAU_.
 
 ---
@@ -48,6 +60,12 @@ Os boletins são emitidos periodicadamente, a cada seis horas, ocorrendo por pad
 Notificações identificadas como [__alerta__] avisam sobre situações de risco iminente: 
 
 Os alertas são disparados sempre que há a possibilidade de eventos perigosos, como chuvas fortes com granizo ou tempestades.
+
+#### Exemplo
+
+<blockquote class="twitter-tweet" data-lang="pt"><p lang="pt" dir="ltr">[alerta] cafelandia​.net/tempo<br><br>🚨 Possibilidade de tempestade! <br><br>October 09, 2018 at 03:02PM</p>&mdash; Tempo em Cafelândia (@tempocafelandia) <a href="https://twitter.com/tempocafelandia/status/1049724733346992129?ref_src=twsrc%5Etfw">9 de outubro de 2018</a></blockquote>
+
+#### Origem
 
 - Estes dados são viabilizados através da Universidade Estadual Paulista, _UNESP_, por meio do seu Instituto de Pesquisas Meteorológicas, o _IPMet_.
 

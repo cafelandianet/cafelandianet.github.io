@@ -5,7 +5,7 @@ permalink: /tempo/
 ---
 
 ## Tempo em Cafelândia
-Previsões, boletins e alertas sobre o __tempo__ para a cidade de __Cafelândia SP__.
+Previsões, boletins e alertas sobre o __tempo__ em __Cafelândia SP__.
 
 ![Tempo em Cafelândia SP](tempocafelandia-1810.png)
 

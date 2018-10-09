@@ -27,7 +27,7 @@ Previsões, boletins e alertas sobre o __tempo__ em __Cafelândia SP__.
 ---
 
 ### Previsão do tempo
-Informativos do tipo [__previsão__] fornecem um resumo sobre as circunstâncias atuais:
+Informativos do tipo [__previsão__] fornecem um resumo sobre as circunstâncias atuais.
 
 As previsões são publicadas nas primeiras horas do dia, podendo ser veiculadas em outros horários quando houver alteração no panorama previsto para o período.
 
@@ -40,7 +40,7 @@ As previsões são publicadas nas primeiras horas do dia, podendo ser veiculadas
 ---
 
 ### Boletim meteorológico
-Atualizações classificadas como [__boletim__] informam a medição de índices específicos:
+Atualizações classificadas como [__boletim__] informam a medição de índices específicos.
 
 Os boletins são emitidos periodicadamente, quatro vezes ao dia, ocorrendo por padrão às 00h, 06h, 12h e 18h.
 
@@ -53,7 +53,7 @@ Os boletins são emitidos periodicadamente, quatro vezes ao dia, ocorrendo por p
 ---
 
 ### Alerta de condição severa
-Notificações identificadas como [__alerta__] avisam sobre situações de risco iminente: 
+Notificações identificadas como [__alerta__] avisam sobre situações de risco iminente. 
 
 Os alertas são disparados sempre que há a possibilidade de eventos perigosos, como chuvas fortes com granizo ou tempestades.
 

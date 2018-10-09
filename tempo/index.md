@@ -22,7 +22,7 @@ Previsões, boletins e alertas sobre o __tempo__ em __Cafelândia SP__.
 
 ### Mais recentes
 
-<a target="_blank" class="twitter-timeline" data-lang="pt" data-tweet-limit="6" href="https://twitter.com/tempocafelandia?ref_src=twsrc%5Etfw">@tempocafelandia no Twitter</a>
+<a target="_blank" class="twitter-timeline" data-lang="pt" data-tweet-limit="6" data-chrome="noheader nofooter noborders noscrollbar transparent" href="https://twitter.com/tempocafelandia?ref_src=twsrc%5Etfw">@tempocafelandia no Twitter</a>
 
 ---
 

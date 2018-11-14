@@ -2,6 +2,7 @@
 title: Cafelândia SP na Internet
 description: Cafelandia.net - Cafelândia SP na Internet
 permalink: /
+redirect_from: "/media/"
 ---
 
 ## Cafelândia SP na Internet

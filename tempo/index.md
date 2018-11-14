@@ -31,7 +31,7 @@ Informativos do tipo [__previsão__] fornecem um resumo sobre as circunstâncias
 
 #### Exemplo:
 
-<blockquote class="twitter-tweet" data-lang="pt"><p lang="pt" dir="ltr">[previsão] cafelandia​.net/tempo<br><br>🔔 Variação de nuvens e pancadas de chuva localizadas que poderão ser fortes e vir acompanhadas de trovoadas a qualquer hora do dia. <br><br>October 09, 2018 at 08:53AM</p>&mdash; Tempo em Cafelândia (@tempocafelandia) <a href="https://twitter.com/tempocafelandia/status/1049631239571935234?ref_src=twsrc%5Etfw">9 de outubro de 2018</a></blockquote>
+[![Previsão do tempo para Cafelândia SP](https://www.cafelandia.net/media/alerta-tempo-cafelandia-sp.png)](https://twitter.com/tempocafelandia/status/1049631239571935234)
 
 As previsões são publicadas nas primeiras horas do dia, podendo ser veiculadas em outros horários quando houver alteração no panorama previsto para o período.
 

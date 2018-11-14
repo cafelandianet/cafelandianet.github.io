@@ -31,7 +31,7 @@ Informativos do tipo [__previsão__] fornecem um resumo sobre as circunstâncias
 
 #### Exemplo:
 
-[![Previsão do tempo para Cafelândia SP](https://www.cafelandia.net/media/previsao-tempo-cafelandia-sp.png)](https://twitter.com/tempocafelandia/status/1049631239571935234)
+![Previsão do tempo para Cafelândia SP](https://www.cafelandia.net/media/previsao-tempo-cafelandia-sp.png)
 
 As previsões são publicadas nas primeiras horas do dia, podendo ser veiculadas em outros horários quando houver alteração no panorama previsto para o período.
 
@@ -44,7 +44,7 @@ Atualizações classificadas como [__boletim__] informam a medição de índices
 
 #### Exemplo:
 
-[![Boletim meteorológico para Cafelândia SP](https://www.cafelandia.net/media/boletim-tempo-cafelandia-sp.png)](https://twitter.com/tempocafelandia/status/1049676007911956486)
+![Boletim meteorológico para Cafelândia SP](https://www.cafelandia.net/media/boletim-tempo-cafelandia-sp.png)
 
 Os boletins são emitidos periodicadamente, quatro vezes ao dia, ocorrendo por padrão às 00h, 06h, 12h e 18h.
 
@@ -57,7 +57,7 @@ Notificações identificadas como [__alerta__] avisam sobre situações de risco
 
 #### Exemplo:
 
-[![Alerta de condição severa para Cafelândia SP](https://www.cafelandia.net/media/alerta-tempo-cafelandia-sp.png)](https://twitter.com/tempocafelandia/status/1049724733346992129)
+![Alerta de condição severa para Cafelândia SP](https://www.cafelandia.net/media/alerta-tempo-cafelandia-sp.png)
 
 Os alertas são disparados sempre que há a possibilidade de eventos perigosos, como chuvas fortes com granizo ou tempestades.
 

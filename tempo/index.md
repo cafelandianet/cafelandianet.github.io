@@ -11,6 +11,8 @@ Previsões, boletins e alertas sobre o __tempo__ para a cidade de __Cafelândia 
 
 <center><a href="https://twitter.com/tempocafelandia?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-size="large" rel="noopener nofollow">Seguir @tempocafelandia</a></center>
 
+<br>
+
 ---
 
 #### Acompanhe:
@@ -22,8 +24,6 @@ Previsões, boletins e alertas sobre o __tempo__ para a cidade de __Cafelândia 
 - [Previsão do tempo](#previs%C3%A3o-do-tempo)
 - [Boletim meteorológico](#boletim-meteorol%C3%B3gico)
 - [Alerta de condição severa](#alerta-de-condi%C3%A7%C3%A3o-severa)
-
-<br>
 
 ---
 

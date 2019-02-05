@@ -9,17 +9,23 @@ Previsões, boletins e alertas sobre o __tempo__ para a cidade de __Cafelândia 
 
 ![Tempo em Cafelândia SP](tempocafelandia-1810.png)
 
-#### Informações:
+#### Acompanhar:
+
+- [Atualizações](#atualiza%C3%A7%C3%B5es)
+
+#### Saber mais:
 
 - [Previsão do tempo](#previs%C3%A3o-do-tempo)
 - [Boletim meteorológico](#boletim-meteorol%C3%B3gico)
 - [Alerta de condição severa](#alerta-de-condi%C3%A7%C3%A3o-severa)
 
-#### Atualizações:
-
-- [Informativo via @tempocafelandia](#informativo%20via%20%40tempocafelandia)
-
 <br>
+
+---
+
+### Atualizações
+
+Siga <a rel="noopener" target="_blank" href="https://twitter.com/tempocafelandia">@tempocafelandia</a> no Twitter para receber todas as _atualizações_.
 
 ---
 
@@ -39,7 +45,7 @@ Informativos do tipo [__previsão__] fornecem um resumo sobre as circunstâncias
 ---
 
 ### Boletim meteorológico
-Atualizações classificadas como [__boletim__] informam a medição de índices específicos.
+Comunicados classificados como [__boletim__] informam a medição de índices específicos.
 
 #### Exemplo:
 
@@ -62,15 +68,9 @@ Notificações identificadas como [__alerta__] avisam sobre situações de risco
 
 #### Detalhes:
 
-- Os _alertas_ são disparados sempre que há a possibilidade de eventos perigosos, como chuvas fortes com granizo ou tempestades. Além disso, também são retransmitidos os comunidados emitidos pela Defesa Civil para a cidade.
+- Os _alertas_ são disparados sempre que há a possibilidade de eventos perigosos, como chuvas fortes com granizo ou tempestades. Além disso, também são retransmitidos todos os avisos emitidos pela Defesa Civil para a nossa cidade.
 
-- Estes dados são viabilizados através da Universidade Estadual Paulista (UNESP), por meio do seu Instituto de Pesquisas Meteorológicas (IPMet), e pela Subsecretaria Estadual de Proteção e Defesa Civil.
-
----
-
-### Informativo via @tempocafelandia
-
-Siga <a rel="noopener" target="_blank" href="https://twitter.com/tempocafelandia">@tempocafelandia</a> para receber todos os _informativos_ através de nossas atualizações via Twitter.
+- As predições são viabilizadas através da Universidade Estadual Paulista (UNESP), por meio do seu Instituto de Pesquisas Meteorológicas (IPMet), e os informes pela Subsecretaria Estadual de Proteção e Defesa Civil.
 
 ---
 

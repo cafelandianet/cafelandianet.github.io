@@ -17,7 +17,7 @@ Previsões, boletins e alertas sobre o __tempo__ para a cidade de __Cafelândia 
 
 #### Atualizações:
 
-- [@tempocafelandia no Twitter](https://twitter.com/tempocafelandia)
+- <a rel="noopener" target="_blank" href="https://twitter.com/tempocafelandia">@tempocafelandia no Twitter</a>
 
 <br>
 
@@ -26,40 +26,33 @@ Previsões, boletins e alertas sobre o __tempo__ para a cidade de __Cafelândia 
 ### Previsão do tempo
 Informativos do tipo [__previsão__] fornecem um resumo sobre as circunstâncias atuais.
 
+![Previsão do tempo para Cafelândia SP](https://www.cafelandia.net/media/previsao-tempo-cafelandia-sp.png)
+
 - As _previsões_ são publicadas nas primeiras horas do dia, podendo ser veiculadas em outros horários quando houver alteração no panorama previsto para o período.
 
 - Estes dados são providos pelo Instituto Nacional de Pesquisas Espaciais (INPE) através do seu Centro de Previsão de Tempo e Estudos Climáticos (CPTEC).
-
-#### Exemplo:
-
-![Previsão do tempo para Cafelândia SP](https://www.cafelandia.net/media/previsao-tempo-cafelandia-sp.png)
 
 ---
 
 ### Boletim meteorológico
 Atualizações classificadas como [__boletim__] informam a medição de índices específicos.
 
+![Boletim meteorológico para Cafelândia SP](https://www.cafelandia.net/media/boletim-tempo-cafelandia-sp.png)
+
 Os _boletins_ são emitidos periodicadamente, quatro vezes ao dia, ocorrendo por padrão às 00h, 06h, 12h e 18h.
 
 - Estes dados são coletados pela estação de meteorologia local do Aeródromo Municipal de Bauru SP (SBBU/BAU).
-
-#### Exemplo:
-
-![Boletim meteorológico para Cafelândia SP](https://www.cafelandia.net/media/boletim-tempo-cafelandia-sp.png)
 
 ---
 
 ### Alerta de condição severa
 Notificações identificadas como [__alerta__] avisam sobre situações de risco iminente. 
 
+![Alerta de condição severa para Cafelândia SP](https://www.cafelandia.net/media/alerta-tempo-cafelandia-sp.png)
 
 - Os _alertas_ são disparados sempre que há a possibilidade de eventos perigosos, como chuvas fortes com granizo ou tempestades.
 
 - Estes dados são viabilizados através da Universidade Estadual Paulista (UNESP) por meio do seu Instituto de Pesquisas Meteorológicas (IPMet).
-
-#### Exemplo:
-
-![Alerta de condição severa para Cafelândia SP](https://www.cafelandia.net/media/alerta-tempo-cafelandia-sp.png)
 
 ---
 

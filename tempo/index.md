@@ -13,17 +13,12 @@ Previsões, boletins e alertas sobre o __tempo__ para a cidade de __Cafelândia 
 
 <br>
 
----
-
-#### Acompanhe:
-
-- [Atualizações](#atualiza%C3%A7%C3%B5es)
-
-#### Saiba mais:
-
-- [Previsão do tempo](#previs%C3%A3o-do-tempo)
-- [Boletim meteorológico](#boletim-meteorol%C3%B3gico)
-- [Alerta de condição severa](#alerta-de-condi%C3%A7%C3%A3o-severa)
+- <h4>Acompanhe:</h4>
+  - [Atualizações](#atualiza%C3%A7%C3%B5es)
+- <h4>Saiba mais:</h4>
+  - [Previsão do tempo](#previs%C3%A3o-do-tempo)
+  - [Boletim meteorológico](#boletim-meteorol%C3%B3gico)
+  - [Alerta de condição severa](#alerta-de-condi%C3%A7%C3%A3o-severa)
 
 ---
 

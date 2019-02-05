@@ -70,7 +70,7 @@ Notificações identificadas como [__alerta__] avisam sobre situações de risco
 
 - Os _alertas_ são disparados sempre que há a possibilidade de eventos perigosos, como chuvas fortes com granizo ou tempestades. Além disso, também são retransmitidos todos os avisos emitidos pela Defesa Civil para a nossa cidade.
 
-- As predições são viabilizadas através da Universidade Estadual Paulista (UNESP), por meio do seu Instituto de Pesquisas Meteorológicas (IPMet), e os informes pela Subsecretaria Estadual de Proteção e Defesa Civil.
+- As predições são viabilizadas através da Universidade Estadual Paulista (UNESP), por meio do seu Instituto de Pesquisas Meteorológicas (IPMet), e os informes pela Subsecretaria Estadual de Proteção e Defesa Civil do Estado de São Paulo.
 
 ---
 

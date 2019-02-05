@@ -9,6 +9,7 @@ Previsões, boletins e alertas sobre o __tempo__ para a cidade de __Cafelândia 
 
 ![Tempo em Cafelândia SP](tempocafelandia-1810.png)
 
+
 #### Acompanhe:
 
 - [Atualizações](#atualiza%C3%A7%C3%B5es)
@@ -25,7 +26,7 @@ Previsões, boletins e alertas sobre o __tempo__ para a cidade de __Cafelândia 
 
 ### Atualizações
 
-Siga <a rel="noopener" target="_blank" href="https://twitter.com/tempocafelandia">@tempocafelandia</a> no Twitter para receber todas as _atualizações_.
+Siga <a rel="noopener" target="_blank" href="https://twitter.com/tempocafelandia">@tempocafelandia</a> no Twitter para receber as _atualizações_ via celular ou PC.
 
 ---
 
@@ -47,7 +48,7 @@ Comunicados classificados como [__boletim__] informam a medição de índices es
 
 - Os _boletins_ são, por padrão, emitidos periodicadamente, quatro vezes ao dia, ocorrendo às 00h, 06h, 12h e 18h.
 
-- Estas informações são coletadas pela estação de meteorologia local do Aeródromo Municipal de Bauru (SBBU/BAU).
+- Estas informações são coletadas pela estação de meteorologia do Aeródromo Municipal de Bauru SP (SBBU/BAU).
 
 ---
 
@@ -56,7 +57,7 @@ Notificações identificadas como [__alerta__] avisam sobre situações de risco
 
 ![Alerta de condição severa para Cafelândia SP](https://www.cafelandia.net/media/alerta-tempo-cafelandia-sp.png)
 
-- Os _alertas_ são disparados sempre que há a possibilidade de eventos perigosos, como chuvas fortes com granizo ou tempestades. Além disso, também são retransmitidos todos os avisos emitidos pela Defesa Civil.
+- Os _alertas_ são disparados sempre que há a possibilidade de eventos perigosos, como chuvas fortes com granizo ou tempestades. Além disso, também são retransmitidos todos os avisos emitidos pela Defesa Civil referentes à cidade.
 
 - As predições são viabilizadas através da Universidade Estadual Paulista (UNESP), por meio do seu Instituto de Pesquisas Meteorológicas (IPMet), e os informes pela Subsecretaria Estadual de Proteção e Defesa Civil do Estado de São Paulo.
 

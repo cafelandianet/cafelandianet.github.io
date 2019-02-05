@@ -9,9 +9,9 @@ Previsões, boletins e alertas sobre o __tempo__ para a cidade de __Cafelândia 
 
 ![Tempo em Cafelândia SP](tempocafelandia-1810.png)
 
-<center><a href="https://twitter.com/tempocafelandia?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-size="large" rel="noopener nofollow">Seguir @tempocafelandia</a></center>
+---
 
-<br>
+<center><a href="https://twitter.com/tempocafelandia?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-size="large" rel="noopener nofollow">Seguir @tempocafelandia</a></center>
 
 ---
 

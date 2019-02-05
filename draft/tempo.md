@@ -47,7 +47,7 @@ Comunicados classificados como [__boletim__] informam a medição de índices es
 
 - Os _boletins_ são, por padrão, emitidos periodicadamente, quatro vezes ao dia, ocorrendo às 00h, 06h, 12h e 18h.
 
-- Estes dados são coletados pela estação de meteorologia local do Aeródromo Municipal de Bauru (SBBU/BAU).
+- Estas informações são coletadas pela estação de meteorologia local do Aeródromo Municipal de Bauru (SBBU/BAU).
 
 ---
 
@@ -56,13 +56,13 @@ Notificações identificadas como [__alerta__] avisam sobre situações de risco
 
 ![Alerta de condição severa para Cafelândia SP](https://www.cafelandia.net/media/alerta-tempo-cafelandia-sp.png)
 
-- Os _alertas_ são disparados sempre que há a possibilidade de eventos perigosos, como chuvas fortes com granizo ou tempestades. Além disso, também são retransmitidos todos os avisos emitidos pela Defesa Civil para a nossa cidade.
+- Os _alertas_ são disparados sempre que há a possibilidade de eventos perigosos, como chuvas fortes com granizo ou tempestades. Além disso, também são retransmitidos todos os avisos emitidos pela Defesa Civil.
 
 - As predições são viabilizadas através da Universidade Estadual Paulista (UNESP), por meio do seu Instituto de Pesquisas Meteorológicas (IPMet), e os informes pela Subsecretaria Estadual de Proteção e Defesa Civil do Estado de São Paulo.
 
 ---
 
-<a href="https://twitter.com/tempocafelandia?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-size="large" rel="noopener nofollow">Seguir @tempocafelandia</a>
+<center><a href="https://twitter.com/tempocafelandia?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-size="large" rel="noopener nofollow">Seguir @tempocafelandia</a></center>
 
 ---
 

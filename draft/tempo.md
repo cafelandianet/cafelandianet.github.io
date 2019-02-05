@@ -4,17 +4,22 @@ description: Previsões, boletins e alertas sobre o tempo para a cidade de Cafel
 permalink: /tempo/2.html
 ---
 
-## Tempo em Cafelândia SP
+## Tempo em Cafelândia
 Previsões, boletins e alertas sobre o __tempo__ para a cidade de __Cafelândia SP__.
 
 ![Tempo em Cafelândia SP](tempocafelandia-1810.png)
 
-- Acesso rápido:
-  - [Previsão do tempo](#previs%C3%A3o-do-tempo)
-  - [Boletim meteorológico](#boletim-meteorol%C3%B3gico)
-  - [Alerta de condição severa](#alerta-de-condi%C3%A7%C3%A3o-severa)
+#### Informações:
+
+- [Previsão do tempo](#previs%C3%A3o-do-tempo)
+- [Boletim meteorológico](#boletim-meteorol%C3%B3gico)
+- [Alerta de condição severa](#alerta-de-condi%C3%A7%C3%A3o-severa)
 
 <br>
+
+#### Atualizações:
+
+- [@tempocafelandia no Twitter](https://twitter.com/tempocafelandia)
 
 ---
 
@@ -46,6 +51,7 @@ Os _boletins_ são emitidos periodicadamente, quatro vezes ao dia, ocorrendo por
 
 ### Alerta de condição severa
 Notificações identificadas como [__alerta__] avisam sobre situações de risco iminente. 
+
 
 - Os _alertas_ são disparados sempre que há a possibilidade de eventos perigosos, como chuvas fortes com granizo ou tempestades.
 

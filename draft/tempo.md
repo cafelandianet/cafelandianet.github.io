@@ -15,11 +15,11 @@ Previsões, boletins e alertas sobre o __tempo__ para a cidade de __Cafelândia 
 - [Boletim meteorológico](#boletim-meteorol%C3%B3gico)
 - [Alerta de condição severa](#alerta-de-condi%C3%A7%C3%A3o-severa)
 
-<br>
-
 #### Atualizações:
 
 - [@tempocafelandia no Twitter](https://twitter.com/tempocafelandia)
+
+<br>
 
 ---
 

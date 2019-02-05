@@ -9,6 +9,11 @@ Previsões, boletins e alertas sobre o __tempo__ para a cidade de __Cafelândia 
 
 ![Tempo em Cafelândia SP](tempocafelandia-1810.png)
 
+---
+
+<center><a href="https://twitter.com/tempocafelandia?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-size="large" rel="noopener nofollow">Seguir @tempocafelandia</a></center>
+
+---
 
 #### Acompanhe:
 
@@ -35,7 +40,7 @@ Informativos do tipo [__previsão__] fornecem um resumo sobre as circunstâncias
 
 ![Previsão do tempo para Cafelândia SP](https://www.cafelandia.net/media/previsao-tempo-cafelandia-sp.png)
 
-- As _previsões_ são geralmente publicadas nas primeiras horas do dia, podendo ser veiculadas em outros horários quando houver alteração no panorama previsto para o período.
+- As _previsões_ são geralmente publicadas nas primeiras horas do dia, podendo ser veiculadas em outros horários quando houver alteração no panorama previsto.
 
 - Estes dados são providos pelo Instituto Nacional de Pesquisas Espaciais (INPE) através do seu Centro de Previsão de Tempo e Estudos Climáticos (CPTEC).
 

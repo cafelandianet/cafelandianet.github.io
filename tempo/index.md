@@ -1,71 +1,72 @@
 ---
 title: Tempo em Cafelândia SP
-description: Previsões, boletins e alertas sobre o tempo para a cidade de Cafelândia-SP
-permalink: /tempo/
+description: Previsões, boletins e alertas sobre o tempo para a cidade de Cafelândia-SP. 
+permalink: /tempo/2.html
 ---
 
 ## Tempo em Cafelândia
-Previsões, boletins e alertas sobre o __tempo__ em __Cafelândia SP__.
+Previsões, boletins e alertas sobre o __tempo__ para a cidade de __Cafelândia SP__.
 
 ![Tempo em Cafelândia SP](tempocafelandia-1810.png)
 
-- Publicações
-  - [Mais recentes](#mais-recentes)
-- Informações
-  - [Previsão do tempo](#previs%C3%A3o-do-tempo)
-  - [Boletim meteorológico](#boletim-meteorol%C3%B3gico)
-  - [Alerta de condição severa](#alerta-de-condi%C3%A7%C3%A3o-severa)
+<center><a href="https://twitter.com/tempocafelandia?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-size="large" rel="noopener nofollow">Seguir @tempocafelandia</a></center>
+
+---
+
+#### Acompanhe:
+
+- [Atualizações](#atualiza%C3%A7%C3%B5es)
+
+#### Saiba mais:
+
+- [Previsão do tempo](#previs%C3%A3o-do-tempo)
+- [Boletim meteorológico](#boletim-meteorol%C3%B3gico)
+- [Alerta de condição severa](#alerta-de-condi%C3%A7%C3%A3o-severa)
 
 <br>
 
 ---
 
-### Mais recentes
+### Atualizações
 
-<a target="_blank" class="twitter-timeline" data-lang="pt" data-tweet-limit="6" data-chrome="noheader nofooter noscrollbar transparent" href="https://twitter.com/tempocafelandia?ref_src=twsrc%5Etfw">Tweets por @tempocafelandia</a>
+Siga <a rel="noopener" target="_blank" href="https://twitter.com/tempocafelandia">@tempocafelandia</a> no Twitter para receber as _atualizações_ via celular ou PC.
 
 ---
 
 ### Previsão do tempo
 Informativos do tipo [__previsão__] fornecem um resumo sobre as circunstâncias atuais.
 
-#### Exemplo:
-
 ![Previsão do tempo para Cafelândia SP](https://www.cafelandia.net/media/previsao-tempo-cafelandia-sp.png)
 
-As previsões são publicadas nas primeiras horas do dia, podendo ser veiculadas em outros horários quando houver alteração no panorama previsto para o período.
+- As _previsões_ são geralmente publicadas nas primeiras horas do dia, podendo ser veiculadas em outros horários quando houver alteração no panorama previsto.
 
-- Estes dados são providos pelo Instituto Nacional de Pesquisas Espaciais, _INPE_, através do seu Centro de Previsão de Tempo e Estudos Climáticos, o _CPTEC_.
+- Estes dados são providos pelo Instituto Nacional de Pesquisas Espaciais (INPE) através do seu Centro de Previsão de Tempo e Estudos Climáticos (CPTEC).
 
 ---
 
 ### Boletim meteorológico
-Atualizações classificadas como [__boletim__] informam a medição de índices específicos.
-
-#### Exemplo:
+Comunicados classificados como [__boletim__] informam a medição de índices específicos.
 
 ![Boletim meteorológico para Cafelândia SP](https://www.cafelandia.net/media/boletim-tempo-cafelandia-sp.png)
 
-Os boletins são emitidos periodicadamente, quatro vezes ao dia, ocorrendo por padrão às 00h, 06h, 12h e 18h.
+- Os _boletins_ são, por padrão, emitidos periodicadamente, quatro vezes ao dia, ocorrendo às 00h, 06h, 12h e 18h.
 
-- Estes dados são coletados pela estação de meteorologia local do Aeródromo Municipal de Bauru SP, o _SBBU_/_BAU_.
+- Estas informações são coletadas pela estação de meteorologia do Aeródromo Municipal de Bauru SP (SBBU/BAU).
 
 ---
 
 ### Alerta de condição severa
 Notificações identificadas como [__alerta__] avisam sobre situações de risco iminente. 
 
-#### Exemplo:
-
 ![Alerta de condição severa para Cafelândia SP](https://www.cafelandia.net/media/alerta-tempo-cafelandia-sp.png)
 
-Os alertas são disparados sempre que há a possibilidade de eventos perigosos, como chuvas fortes com granizo ou tempestades.
+- Os _alertas_ são disparados sempre que há a possibilidade de eventos perigosos, como chuvas fortes com granizo ou tempestades. Além disso, também são retransmitidos todos os avisos emitidos pela Defesa Civil referentes à cidade.
 
-- Estes dados são viabilizados através da Universidade Estadual Paulista, _UNESP_, por meio do seu Instituto de Pesquisas Meteorológicas, o _IPMet_.
+- As predições são viabilizadas através da Universidade Estadual Paulista (UNESP), por meio do seu Instituto de Pesquisas Meteorológicas (IPMet), e os informes pela Subsecretaria Estadual de Proteção e Defesa Civil do Estado de São Paulo.
 
 ---
 
-Siga <a rel="noopener" target="_blank" href="https://twitter.com/tempocafelandia">@tempocafelandia</a> no Twitter!
+<center><a href="https://twitter.com/tempocafelandia?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-size="large" rel="noopener nofollow">Seguir @tempocafelandia</a></center>
 
 ---
 

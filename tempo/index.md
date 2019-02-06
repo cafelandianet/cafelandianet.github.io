@@ -2,6 +2,7 @@
 title: Tempo em Cafelândia SP
 description: Previsões, boletins e alertas sobre o tempo para a cidade de Cafelândia-SP. 
 permalink: /tempo/
+redirect_from: "/tempo/2.html"
 ---
 
 ## Tempo em Cafelândia
